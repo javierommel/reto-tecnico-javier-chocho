@@ -1,0 +1,12 @@
+package com.javierchocho.ms_cuentas_movimientos.exception;
+
+import org.springframework.http.HttpStatus;
+import org.springframework.web.bind.annotation.ResponseStatus;
+
+@ResponseStatus(value = HttpStatus.BAD_REQUEST)
+public class SaldoInsuficienteException extends RuntimeException {
+
+    public SaldoInsuficienteException(String numeroCuenta) {
+        super(String.format("Saldo no disponible para cuenta: %s",numeroCuenta));
+    }
+}
