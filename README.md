@@ -23,24 +23,24 @@ Aplicación diseñada para gestionar clientes, cuentas y movimientos, desarrolla
 
 ```
 ms-clientes-personas/src/main/java/com/javierchocho/ms_clientes_personas
-  /config
-  /controller
-  /dto
-  /entity
-  /exception
-  /mapper
-  /repository
-  /service
+  ├── config
+  ├── controller
+  ├── dto
+  ├── entity
+  ├── exception
+  ├── mapper
+  ├── repository
+  └──service
 
 ms-cuentas-movimientos/src/main/java/com/javierchocho/ms_cuentas_movimientos
-  /config
-  /controller
-  /dto
-  /entity
-  /exception
-  /mapper
-  /repository
-  /service
+  ├── config
+  ├── controller
+  ├── dto
+  ├── entity
+  ├── exception
+  ├── mapper
+  ├── repository
+  └──service
 
 ```
 # Instalación
