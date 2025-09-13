@@ -8,7 +8,7 @@
 		<version>3.4.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.rommelchocho</groupId>
+	<groupId>com.javierchocho</groupId>
 	<artifactId>ms-cuentas-movimientos</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>ms-cuentas-movimientos</name>

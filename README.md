@@ -1,4 +1,4 @@
-# Devsu Reto Técnico Rommel Chocho
+# Devsu Reto Técnico Javier Chocho
 
 Aplicación diseñada para gestionar clientes, cuentas y movimientos, desarrollada como parte de un challenge técnico. Esta solución aplica las mejores prácticas en arquitectura, desarrollo, pruebas y despliegue.
 
@@ -86,7 +86,7 @@ cd ms-cuentas-movimientos
 mvn clean package
 
 # 4. Configura tus variables de entorno en el archivo .env con los valores de tus configuraciones
-cp .env.example .env
+cp env.example .env
 
 # 5. Desplegar solución completa
 docker compose -f docker-compose-build.yml up --build

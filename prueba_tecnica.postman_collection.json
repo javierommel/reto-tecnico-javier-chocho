@@ -1,8 +1,8 @@
 {
 	"info": {
-		"_postman_id": "47ebf413-e689-45c8-bd07-f0a4d75b92d2",
+		"_postman_id": "8ef52460-95af-47ae-bb9e-34c2c81393df",
 		"name": "prueba_tecnica",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
 		"_exporter_id": "34407453"
 	},
 	"item": [
@@ -23,17 +23,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8081/clientes",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes"
-							]
-						}
+						"url": "http://localhost:8081/clientes"
 					},
 					"response": []
 				},
@@ -51,17 +41,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8081/clientes",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes"
-							]
-						}
+						"url": "http://localhost:8081/clientes"
 					},
 					"response": []
 				},
@@ -79,17 +59,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8081/clientes",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes"
-							]
-						}
+						"url": "http://localhost:8081/clientes"
 					},
 					"response": []
 				},
@@ -98,17 +68,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": {
-							"raw": "http://localhost:8081/clientes",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes"
-							]
-						}
+						"url": "http://localhost:8081/clientes"
 					},
 					"response": []
 				},
@@ -117,18 +77,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": {
-							"raw": "http://localhost:8081/clientes/0982547850",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes",
-								"0982547850"
-							]
-						}
+						"url": "http://localhost:8081/clientes/0982547850"
 					},
 					"response": []
 				},
@@ -146,18 +95,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8081/clientes/1",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes",
-								"1"
-							]
-						}
+						"url": "http://localhost:8081/clientes/1"
 					},
 					"response": []
 				},
@@ -170,18 +108,7 @@
 							"mode": "raw",
 							"raw": "{\n    \"numeroCuenta\":\"585545\",\n    \"tipoMovimiento\":\"Retiro\",\n    \"valor\":-575\n}"
 						},
-						"url": {
-							"raw": "http://localhost:8081/clientes/3",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8081",
-							"path": [
-								"clientes",
-								"3"
-							]
-						}
+						"url": "http://localhost:8081/clientes/3"
 					},
 					"response": []
 				}
@@ -204,17 +131,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/cuentas",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas"
-							]
-						}
+						"url": "http://localhost:8082/cuentas"
 					},
 					"response": []
 				},
@@ -232,17 +149,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/cuentas",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas"
-							]
-						}
+						"url": "http://localhost:8082/cuentas"
 					},
 					"response": []
 				},
@@ -260,17 +167,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/cuentas",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas"
-							]
-						}
+						"url": "http://localhost:8082/cuentas"
 					},
 					"response": []
 				},
@@ -288,17 +185,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/cuentas",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas"
-							]
-						}
+						"url": "http://localhost:8082/cuentas"
 					},
 					"response": []
 				},
@@ -316,17 +203,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/cuentas",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas"
-							]
-						}
+						"url": "http://localhost:8082/cuentas"
 					},
 					"response": []
 				},
@@ -335,17 +212,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": {
-							"raw": "http://localhost:8082/cuentas",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas"
-							]
-						}
+						"url": "http://localhost:8082/cuentas"
 					},
 					"response": []
 				},
@@ -354,18 +221,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": {
-							"raw": "http://localhost:8082/cuentas/585545",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas",
-								"585545"
-							]
-						}
+						"url": "http://localhost:8082/cuentas/585545"
 					},
 					"response": []
 				},
@@ -383,18 +239,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/cuentas/585545",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"cuentas",
-								"585545"
-							]
-						}
+						"url": "http://localhost:8082/cuentas/585545"
 					},
 					"response": []
 				}
@@ -417,17 +262,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/movimientos",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos"
-							]
-						}
+						"url": "http://localhost:8082/movimientos"
 					},
 					"response": []
 				},
@@ -445,17 +280,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/movimientos",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos"
-							]
-						}
+						"url": "http://localhost:8082/movimientos"
 					},
 					"response": []
 				},
@@ -473,17 +298,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/movimientos",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos"
-							]
-						}
+						"url": "http://localhost:8082/movimientos"
 					},
 					"response": []
 				},
@@ -501,17 +316,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/movimientos",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos"
-							]
-						}
+						"url": "http://localhost:8082/movimientos"
 					},
 					"response": []
 				},
@@ -520,17 +325,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": {
-							"raw": "http://localhost:8082/movimientos",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos"
-							]
-						}
+						"url": "http://localhost:8082/movimientos"
 					},
 					"response": []
 				},
@@ -539,18 +334,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": {
-							"raw": "http://localhost:8082/movimientos/4",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos",
-								"4"
-							]
-						}
+						"url": "http://localhost:8082/movimientos/4"
 					},
 					"response": []
 				},
@@ -568,18 +352,7 @@
 								}
 							}
 						},
-						"url": {
-							"raw": "http://localhost:8082/movimientos/4",
-							"protocol": "http",
-							"host": [
-								"localhost"
-							],
-							"port": "8082",
-							"path": [
-								"movimientos",
-								"4"
-							]
-						}
+						"url": "http://localhost:8082/movimientos/4"
 					},
 					"response": []
 				}
@@ -594,7 +367,7 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8082/reportes?fechaInicio=2025-06-05&fechaFin=2025-06-05&clienteId=2",
+							"raw": "http://localhost:8082/reportes?fechaInicio=2025-09-13&fechaFin=2025-09-13&clienteId=2",
 							"protocol": "http",
 							"host": [
 								"localhost"
@@ -606,11 +379,11 @@
 							"query": [
 								{
 									"key": "fechaInicio",
-									"value": "2025-06-05"
+									"value": "2025-09-13"
 								},
 								{
 									"key": "fechaFin",
-									"value": "2025-06-05"
+									"value": "2025-09-13"
 								},
 								{
 									"key": "clienteId",
