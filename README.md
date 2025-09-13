@@ -51,7 +51,7 @@ ms-cuentas-movimientos/src/main/java/com/javierchocho/ms_cuentas_movimientos
 
 ### Variables de Entorno
 
-Ver `.env.example` para los valores requeridos en backend.
+Ver `env.example` para los valores requeridos en backend.
 
 ---
 
@@ -124,7 +124,7 @@ docker compose -f docker-compose-build.yml up --build
 
 ## Autor
 
-Javier Chocho - Fullstack Developer
+Javier Chocho
 
 ---
 
